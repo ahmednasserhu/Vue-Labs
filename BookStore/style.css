@@ -1,0 +1,25 @@
+.info-pair{
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-size{
+  width: 420px;
+  height: 300px;
+}
+
+.expensive{
+  color: green;
+}
+
+.cheap{
+  color: red;
+}
+
+.affordable{
+  color: blue;
+}
+
+.bookStore{
+  cursor: pointer;
+}
