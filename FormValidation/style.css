@@ -1,0 +1,7 @@
+.form-style{
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+  height: 100vh;
+}
